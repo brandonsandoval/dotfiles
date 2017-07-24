@@ -1,8 +1,13 @@
-# My config for i3-gaps
-This will get updated, when I update my setup. All files belong in ~/.config/i3
+# My config for Arch Linux with i3-gaps
+This will get updated, when I update my system. All files belong in ~/.config/i3
 
-Screenshots: http://imgur.com/gallery/Ifpva
-
-Wallpaper: https://www.flickr.com/photos/79417176@N04/12251338705/in/album-72157640377403956/
+Desktop:
+![desktop](/screenshots/desktop.png?raw=true "Desktop")
+Rofi:
+![menu](/screenshots/rofi.png?raw=true "Menu")
+Windows:
+![windows](/screenshots/windows.png?raw=true "Windows")
+Lock Screen: (blurred greyscale screencapture)
+![lock](/screenshots/lock.png?raw=true "Lock")
 
 *Note: requires ttf-font-awesome (AUR) for icons.*
