@@ -9,5 +9,3 @@ Windows:
 ![windows](/screenshots/windows.png?raw=true "Windows")
 Lock Screen: (blurred greyscale screencapture)
 ![lock](/screenshots/lock.png?raw=true "Lock")
-
-*Note: requires ttf-font-awesome (AUR) for icons.*
